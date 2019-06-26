@@ -8,11 +8,11 @@ Based on the Design Your Life course at Stanford, this app helps you figure out 
 
 # Team Members
 
-Chis Petito
-Vlad Mogilevskiy
-Dora Belme
-Adam Hoffman
-Janelle Washington
+- Chis Petito
+- Vlad Mogilevskiy
+- Dora Belme
+- Adam Hoffman
+- Janelle Washington
 
 ### Links
 
