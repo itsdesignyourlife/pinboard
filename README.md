@@ -20,7 +20,7 @@ Based on the Design Your Life course at Stanford, this app helps you figure out 
 https://trello.com/b/X4lL4gGL/design-your-life-build-week
 
 ### TDD
-https://docs.google.com/document/d/10hq82IWA-J7HJsQZdBZNK2mJjWlXBLD8vrJ5_FP05fc/edit
+https://docs.google.com/document/d/1hg35mx_TdQJ1-RgfLSss9mrC4-ydjgb47wYqEQ4Z7pg/edit
 
 ### Sprint Retro
 https://docs.google.com/document/d/1NI-t7kqzZdJfvZIstfQrzVfZXTObmtMUJ78iP9x_VgQ/edit
