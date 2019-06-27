@@ -14,6 +14,15 @@ Based on the Design Your Life course at Stanford, this app helps you figure out 
 - Adam Hoffman
 - Janelle Washington
 
+---------------------------------
+
+[Dora's marketing page](https://designyourlifejournal.netlify.com/)
+[Adam's marketing page](https://frosty-wozniak-874abb.netlify.com/)
+[Vlad's React App](https://designyourlife.netlify.com/)
+[Chris' API](https://dyl-backend.herokuapp.com/)
+
+---------------------------------
+
 ### Links
 
 ### Trello
